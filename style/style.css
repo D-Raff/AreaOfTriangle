@@ -24,3 +24,9 @@ body{
     background: black;
     color: aliceblue;
 }
+@media screen and (max-width:320px) {
+    .card{
+        height: 100%;
+        width: 100%;
+    }
+}
